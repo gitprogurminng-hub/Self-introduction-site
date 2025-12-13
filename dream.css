@@ -1,0 +1,50 @@
+header li:hover{
+    opacity: 0.5;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header ul{
+    width: 540px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+body {
+    width: 1080px;
+    margin: 0 auto;
+}
+header li{
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background-color: burlywood;
+    margin: 5px;
+}
+.syoukai {
+    background-color: yellow;
+    font-size: 20px;
+    width: 1070px;
+    margin: auto ;
+}
+.hito img {
+height: 250px;
+width: 250px;
+margin-top: 55px;
+}
+
+.syoukai  {
+    display: flex;
+}
+main {
+    height: 390px;
+    width: 1080px;
+}
+.syoukai {
+    height: 390px;
+    width: 1080px;
+}
